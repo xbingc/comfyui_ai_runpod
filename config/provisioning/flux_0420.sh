@@ -19,7 +19,8 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    
+)
+
 WORKFLOWS=(
 	"https://github.com/MushroomFleet/DJZ-Workflows"
 )
